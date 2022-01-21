@@ -1,0 +1,10 @@
+C:\Users\ashle\source\repos\timesTable\timesTable\bin\Debug\timesTable.exe.config
+C:\Users\ashle\source\repos\timesTable\timesTable\bin\Debug\timesTable.exe
+C:\Users\ashle\source\repos\timesTable\timesTable\bin\Debug\timesTable.pdb
+C:\Users\ashle\source\repos\timesTable\timesTable\obj\Debug\timesTable.csprojAssemblyReference.cache
+C:\Users\ashle\source\repos\timesTable\timesTable\obj\Debug\timesTable.Form1.resources
+C:\Users\ashle\source\repos\timesTable\timesTable\obj\Debug\timesTable.Properties.Resources.resources
+C:\Users\ashle\source\repos\timesTable\timesTable\obj\Debug\timesTable.csproj.GenerateResource.cache
+C:\Users\ashle\source\repos\timesTable\timesTable\obj\Debug\timesTable.csproj.CoreCompileInputs.cache
+C:\Users\ashle\source\repos\timesTable\timesTable\obj\Debug\timesTable.exe
+C:\Users\ashle\source\repos\timesTable\timesTable\obj\Debug\timesTable.pdb
